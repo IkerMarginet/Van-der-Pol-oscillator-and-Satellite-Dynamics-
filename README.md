@@ -32,11 +32,11 @@ Analyses include phase portraits, error estimation, energy conservation, and the
 - **docs/**: Documentation files
   - `differential_equations_matlab.tex`: LaTeX report (in French) detailing equations, code, and analysis.
   - `differential_equations_matlab.pdf`: Compiled PDF of the LaTeX report (optional).
-  - `user_guide.md`: Instructions for running the MATLAB scripts.
 - **examples/**: Example inputs
   - `example_inputs.txt`: Suggested parameters for running simulations.
-- **tests/**: Unit tests
-  - `test_vanderpol.m`: Unit test for the Van der Pol oscillator simulation.
+- **tests/**: Contains images generated from simulations using the recommended parameters to illustrate results and validate behavior visually.
+  - `test_vanderpol/`: Folder with plots and figures for the Van der Pol oscillator simulation.
+  - `test_satellite/`: Folder with images and plots generated using the recommended parameters, illustrating satellite orbit and energy results.
 - `README.md`: Project overview and setup instructions.
 - `LICENSE`: MIT license terms.
 - `.gitignore`: Ignores temporary MATLAB and LaTeX files.
