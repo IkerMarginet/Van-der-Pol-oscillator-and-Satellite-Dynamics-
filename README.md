@@ -31,7 +31,7 @@ Analyses include phase portraits, error estimation, energy conservation, and the
     - `calcul_energie.m`: Plots and analyzes energy from `simulation_satellite.m`.
 - **docs/**: Documentation files
   - `differential_equations_matlab.tex`: LaTeX report (in French) detailing equations, code, and analysis.
-  - `differential_equations_matlab.pdf`: Compiled PDF of the LaTeX report (optional).
+  - `differential_equations_matlab.pdf`: Compiled PDF of the LaTeX report.
 - **examples/**: Example inputs
   - `example_inputs.txt`: Suggested parameters for running simulations.
 - **tests/**: Contains images generated from simulations using the recommended parameters to illustrate results and validate behavior visually.
